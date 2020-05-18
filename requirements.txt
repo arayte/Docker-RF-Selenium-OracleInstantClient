@@ -1,0 +1,5 @@
+jsonpath==0.81
+jsonpatch==1.23
+jsonpointer==2.0
+cx-Oracle==7.3.0
+robotframework-datadriver==0.3.6
